@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Test de Fraction");
+        Fraction f = new Fraction();
+        System.out.println(f);
     }
 }
-
-
